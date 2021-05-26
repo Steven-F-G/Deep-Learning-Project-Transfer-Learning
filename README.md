@@ -1,7 +1,7 @@
 # Deep-Learning-Project-Transfer-Learning
 **Semester 6 Deep Learning Transfer Learning Mini Project-2**
 
-**Introduction : **
+**Introduction:**
 The problem taken is here is to classify the different images of monkeys
 based on their species. To implement Transfer Learning here we
 implement a trained model, VGG16 which was proposed by researchers
@@ -13,7 +13,7 @@ only less than 150 images per class is chosen. A pre-trained model will
 eliminate the need to train the model from scratch.
 
 
-**Dataset Details : **
+**Dataset Details:**
 This dataset contains 10 classes of monkey species, each corresponding
 to a species from Wikipedia's monkey cladogram. Images are 400x300
 px or larger and .jpeg format (almost 1400 images), with less than 150
